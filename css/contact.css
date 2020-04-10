@@ -8,6 +8,12 @@
 body{
 	background: #333;
 }
+h1
+{
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+}
 .top{
 	color: #000;
 	margin-top: 100px;
