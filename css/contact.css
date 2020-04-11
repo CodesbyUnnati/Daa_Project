@@ -13,7 +13,7 @@ h1
     background-color: transparent;
     color: #fff;
     text-align: center;
-    justify-content:center;	
+    justify-content: center;
 }
 .top{
 	color: #000;
@@ -57,10 +57,12 @@ color:#555;
 .front img{
 	height: 100%;
 	object-fit: cover;
+    backface-visibility: hidden;
 
 }
 .front{
 	transform: perspective(600px) rotateY(0deg);
+    backface-visibility: hidden;
 }
 .back{
 	background: #FFB6C1;
