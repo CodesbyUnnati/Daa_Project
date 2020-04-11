@@ -31,7 +31,6 @@ color:#555;
     
    width: 400px;
    height: 600px;
-   transform: rotate(-90deg);
    border-image: 10px;
 }
 .middle{
