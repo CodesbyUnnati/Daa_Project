@@ -1,0 +1,43 @@
+body
+{
+    background-color: #FEEBFE;
+}
+h1 {
+
+    text-align: center;
+    font-family: 'Century';
+    background-color: #D1EEEA;
+    color: #4C4C4C;
+    border-radius: 10px;
+    font-weight: bolder;
+
+}
+
+.image {
+    width: 80%;
+}
+
+.content {
+
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5rem;
+    color: #555;
+    text-align: left;
+    position: relative;
+    line-height: 39px;
+
+}
+h2
+{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+    margin-right: 20px
+    margin:20px;
+}
+ul
+{
+    font-weight: bold;
+}
